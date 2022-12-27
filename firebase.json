@@ -9,7 +9,7 @@
     "rewrites": [
       {
         "source": "**",
-        "destination": "dist/apps/my-estate-app/index.html"
+        "destination": "/dist/apps/my-estate-app/index.html"
       }
     ]
   }
